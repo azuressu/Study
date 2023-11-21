@@ -1,11 +1,8 @@
 package com.study;
 
+import com.study.one.Q2;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
-import java.sql.Array;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class Q2Test {
 

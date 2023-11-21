@@ -1,4 +1,4 @@
-package com.study;
+package com.study.one;
 
 public class Q5 {
     /**
